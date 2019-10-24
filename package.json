@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/rndomhack/node-aribts.git"
+    "url": "https://github.com/whitesause28/node-aribts.git"
   },
   "author": "rndomhack",
   "dependencies": {
     "bindings": "^1.2.1",
     "crc": "^3.4.4",
     "eventemitter3": "^2.0.3",
-    "iconv-lite": "^0.4.15",
+    "iconv-lite": "^0.5.0",
     "nan": "^2.6.1"
   },
   "license": "MIT"
