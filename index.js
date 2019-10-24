@@ -16,6 +16,7 @@ module.exports = {
     TsReader: require("./lib/reader"),
     TsWriter: require("./lib/writer"),
     TsChar: require("./lib/char"),
+    TsWChar: require("./lib/wchar"),
     TsDate: require("./lib/date"),
     TsLogo: require("./lib/logo"),
     TsPacket: require("./lib/packet"),
